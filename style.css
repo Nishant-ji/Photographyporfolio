@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#page1 {
+    height: 100vh;
+    background-color: rgba(112, 112, 112, 0.26);
+    background-image: url(images/fornt_theme.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0vh 24vh;
+}
+.navigation{
+    background-color:transparent ;
+    color: white;
+    font-family: vollkorn;
+    padding: 5vh 0vh;
+}
+#page1_front{
+    height: 70%;
+    border-bottom: 1px solid white;
+    color: white;   
+}
+#page1_front h1{
+    width: 50%;
+    font-family:vollkorn,serif;
+    font-size: 7.5vh;
+    font-weight: bold 100;
+    padding: 5vh 1vh;
+    padding-bottom:25vh;
+}
+
+#page2{
+    height: 100vh;
+    background-color: #F6F6F2;
+}
